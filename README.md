@@ -21,7 +21,7 @@ To set up this project, you need to have the Arduino IDE installed along with th
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/esp32-ota-update-example.git
+    git clone https://github.com/esmail-sarhadi/esp32-ota-update-example.git
     ```
 2. Navigate to the project directory:
     ```bash
